@@ -1,4 +1,4 @@
-# RemoteControlServer
+# RemoteTouchServer
 
 This is the server of RemoteControl, you should do the following steps to setup the server.
 - 1.Prepare a CentOS server with public IP address and Java 17 environment.
