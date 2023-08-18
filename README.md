@@ -2,7 +2,7 @@
 
 This is the server of RemoteTouch, you should do the following steps to setup the server.
 - 1.Prepare a server(Recommend CentOS) with public IP address and Java 17 environment.
-- 2.Build the project and generate artifacts(rt.jar), then upload the rt.jar file to the server.
+- 2.Build the project and generate artifacts(rt.jar), or you can download rt.jar file from project release artifacts. Then upload the rt.jar file to the server.
 - 3.Grant permissions to rt.jar.
 ```
 chmod 777 rt.jar
