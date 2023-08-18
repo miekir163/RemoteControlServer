@@ -1,6 +1,6 @@
-# RemoteTouchServer
+# Remote Control Server
 
-This is the server of RemoteControl, you should do the following steps to setup the server.
+This is the server of RemoteTouch, you should do the following steps to setup the server.
 - 1.Prepare a server(Recommend CentOS) with public IP address and Java 17 environment.
 - 2.Build the project and generate artifacts(rt.jar), then upload the rt.jar file to the server.
 - 3.Grant permissions to rt.jar.
