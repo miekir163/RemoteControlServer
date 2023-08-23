@@ -28,3 +28,6 @@ Download [Client APK](https://github.com/miekir163/RemoteControlOutput/blob/main
 
 ## Notice
 For some VPS, there are public IP and private IP at the same time, you may create ip_public.txt(Content is public IP address) and ip_private.txt(Content is private IP address) in the same directory as rt.jar, reboot and run the rt.jar again.
+
+## Support
+[Buy Author a Coffee](https://ko-fi.com/miekir)
