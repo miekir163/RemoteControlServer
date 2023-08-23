@@ -32,6 +32,6 @@ nohup java -jar rt.jar &
 ## 支持作者
 如果本项目有给你带来一些帮助，就请我喝杯咖啡吧。
 
-[支付宝](https://github.com/miekir163/RemoteControlOutput/blob/main/image/alipay.jpg?raw=true){:target="_blank"}
+[支付宝](https://github.com/miekir163/RemoteControlOutput/blob/main/image/alipay.jpg?raw=true?_blank)
 
-[微信](https://github.com/miekir163/RemoteControlOutput/blob/main/image/wechat.jpg?raw=true){:target="_blank"}
+[微信](https://github.com/miekir163/RemoteControlOutput/blob/main/image/wechat.jpg?raw=true?_blank)
