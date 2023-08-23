@@ -1,7 +1,5 @@
 # Remote Control Server
 
-## [中文文档](https://github.com/miekir163/RemoteControlServer/blob/main/READMECN.md)
-
 这是远程控制的服务器端，执行以下步骤让服务器跑起来。
 
 1.准备一个有公网IP的服务器，安装JDK 17;
