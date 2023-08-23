@@ -34,6 +34,4 @@ nohup java -jar rt.jar &
 
 <a href="https://github.com/miekir163/RemoteControlOutput/blob/main/image/alipay.jpg?raw=true" target="_blank">支付宝</a>
 
-![Alt text](%253Dtrue)
-
 <a href="https://github.com/miekir163/RemoteControlOutput/blob/main/image/wechat.jpg?raw=true" target="_blank">微信</a>
