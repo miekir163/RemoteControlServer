@@ -29,4 +29,9 @@ nohup java -jar rt.jar &
  - 如果安装了宝塔面板，还要在宝塔开放端口；
  - 对于国内部分VPS，比如阿里云这些既有私网IP又有公网IP的服务器，你需要在rt.jar同一目录创建ip_public.txt（内容是公网IP） 和 ip_private.txt（内容是私网IP），然后重启服务器，再次执行其他rt.jar的命令。
 
+## 支持作者
+如果本项目有给你带来一些帮助，就请我喝杯咖啡吧。
 
+[支付宝](https://github.com/miekir163/RemoteControlOutput/blob/main/image/alipay.jpg?raw=true){:target="_blank"}
+
+[微信](https://github.com/miekir163/RemoteControlOutput/blob/main/image/wechat.jpg?raw=true){:target="_blank"}
