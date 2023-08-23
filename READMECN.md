@@ -3,13 +3,13 @@
 ## [中文文档](https://github.com/miekir163/RemoteControlServer/blob/main/READMECN.md)
 
 这是远程控制的服务器端，执行以下步骤让服务器跑起来。
-- 1.准备一个有公网IP的服务器，安装JDK 17;
-- 2.下载源码编译rt.jar并上传到服务器，或者你可以到[已发布版本](https://github.com/miekir163/RemoteControlOutput/tree/main/release)里下载；
-- 3.授权读写；
+1.准备一个有公网IP的服务器，安装JDK 17;
+2.下载源码编译rt.jar并上传到服务器，或者你可以到[已发布版本](https://github.com/miekir163/RemoteControlOutput/tree/main/release)里下载；
+3.授权读写；
 ```
 chmod 777 rt.jar
 ```
-- 4.确保端口已打开：6899, 4245, 6898, 4244，然后执行：
+4.确保端口已打开：6899, 4245, 6898, 4244，然后执行：
 前台运行：
 ```
 java -jar rt.jar
